@@ -1,0 +1,1 @@
+openURL(URL(string: "https://www.example.com
